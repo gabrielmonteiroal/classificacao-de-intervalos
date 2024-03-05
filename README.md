@@ -12,7 +12,7 @@ Se o valor não estiver em nenhum destes intervalos, será exibida a mensagem "F
 ## Como Usar
 
 1. Certifique-se de ter o Java instalado em seu sistema.
-2. Clone este repositório ou baixe o arquivo `classificacao-de-intervalos.java`.
+2. Clone este repositório ou baixe o arquivo `Main.java`.
 3. Compile o código Java:
 
    ```bash
